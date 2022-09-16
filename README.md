@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KomissarbAv
+- 👀 I’m interested in lowpoly, retro graphics, and rigging.
+- 🌱 I’m currently learning Blender and Unreal Engine.
+- 💞️ I’m looking to collaborate on a top-down RTS-flavored idle game.
